@@ -1,0 +1,246 @@
+﻿Year,Title,PDF_URL,Source
+2013,Results of the First BioASQ Workshop,https://ceur-ws.org/Vol-1094/bioasq2013_overview.pdf,CEUR-WS
+2013,Two Hierarchical Text Categorization Approaches for BioASQ Semantic Indexing Challenge,https://ceur-ws.org/Vol-1094/bioasq2013_submission_4.pdf,CEUR-WS
+2014,Results of the BioASQ Track of the Question Answering Lab at CLEF 2014,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-BalikasEt2014.pdf,CEUR-WS
+2014,Classification and Retrieval of Biomedical Literatures: SNUMedinfo at CLEF QA track BioASQ 2014,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-ChoiEt2014.pdf,CEUR-WS
+2014,UMass at BioASQ 2014: Figure-inspired Text Retrieval,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-LingemanEt2014.pdf,CEUR-WS
+2014,The Fudan-UIUC Participation in the BioASQ Challenge Task 2a: The Antinomyra system,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-LiuEt2014.pdf,CEUR-WS
+2014,NCBI at the 2014 BioASQ Challenge Task: Large-scale Biomedical Semantic Indexing and Question Answering,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-MaoEt2014.pdf,CEUR-WS
+2014,HPI in-memory-based Database System in Task 2b of BioASQ,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-Neves2014.pdf,CEUR-WS
+2014,CoLe and UTAI Participation at the 2014 BioASQ Semantic Indexing Challenge,https://ceur-ws.org/Vol-1180/CLEF2014wn-QA-RibadasPenaEt2014.pdf,CEUR-WS
+2015,Results of the BioASQ Tasks of the Question Answering Lab at CLEF 2015,https://ceur-ws.org/Vol-1391/inv-pap7-CR.pdf,CEUR-WS
+2015,SNUMedinfo at CLEF BioASQ 2015,https://ceur-ws.org/Vol-1391/118-CR.pdf,CEUR-WS
+2015,USI at BioASQ 2015: a Semantic Similarity-based Approach for Semantic Indexing,https://ceur-ws.org/Vol-1391/94-CR.pdf,CEUR-WS
+2015,IIITH at BioASQ Challenge 2015 Task 3a: Extreme Classification of PubMed Articles using MeSH Labels,https://ceur-ws.org/Vol-1391/54-CR.pdf,CEUR-WS
+2015,Biomedical Question-focused Multi-document Summarization: ILSP and AUEB at BioASQ3,https://ceur-ws.org/Vol-1391/70-CR.pdf,CEUR-WS
+2015,NCBI at the 2015 BioASQ Challenge Task: Baseline Results from MeSH Now,https://ceur-ws.org/Vol-1391/168-CR.pdf,CEUR-WS
+2015,HPI Question Answering System in the BioASQ 2015 Challenge,https://ceur-ws.org/Vol-1391/59-CR.pdf,CEUR-WS
+2015,AUTH-Atypon at BioASQ 3: Large-Scale Semantic Indexing in Biomedicine,https://ceur-ws.org/Vol-1391/29-CR.pdf,CEUR-WS
+2015,CoLe and UTAI at BioASQ 2015: Experiments with Similarity Based Descriptor Assignment,https://ceur-ws.org/Vol-1391/84-CR.pdf,CEUR-WS
+2015,The Fudan Participation in the 2015 BioASQ Challenge: Large-scale Biomedical Semantic Indexing and Question Answering,https://ceur-ws.org/Vol-1391/88-CR.pdf,CEUR-WS
+2015,Learning to Answer Biomedical Factoid & List Questions: OAQA at BioASQ 3B,https://ceur-ws.org/Vol-1391/114-CR.pdf,CEUR-WS
+2015,IIITH at BioASQ Challange 2015 Task 3b: Bio-Medical Question Answering System,https://ceur-ws.org/Vol-1391/55-CR.pdf,CEUR-WS
+2015,A generic retrieval system for biomedical literatures: USTB at BioASQ2015 Question Answering Task,https://ceur-ws.org/Vol-1391/3-CR.pdf,CEUR-WS
+2016,HPI Question Answering System in B io ASQ 2016,https://aclanthology.org/W16-3105.pdf,ACL Anthology
+2016,Learning to Answer Biomedical Questions: OAQA at B io ASQ 4 B,https://aclanthology.org/W16-3104.pdf,ACL Anthology
+2016,Large-Scale Semantic Indexing and Question Answering in Biomedicine,https://aclanthology.org/W16-3107.pdf,ACL Anthology
+2016,Using Learning-To-Rank to Enhance NLM Medical Text Indexer Results,https://aclanthology.org/W16-3102.pdf,ACL Anthology
+2016,Results of the 4th edition of B io ASQ Challenge,https://aclanthology.org/W16-3101.pdf,ACL Anthology
+2016,LABDA at the 2016 B io ASQ challenge task 4a: Semantic Indexing by using E lastic S earch,https://aclanthology.org/W16-3103.pdf,ACL Anthology
+2016,KSA nswer: Question-answering System of Kangwon National University and Sogang University in the 2016 B io ASQ Challenge,https://aclanthology.org/W16-3106.pdf,ACL Anthology
+2017,Results of the fifth edition of the B io ASQ Challenge,https://aclanthology.org/W17-2306.pdf,ACL Anthology
+2017,Neural Question Answering at B io ASQ 5 B,https://aclanthology.org/W17-2309.pdf,ACL Anthology
+2017,A Biomedical Question Answering System in B io ASQ 2017,https://aclanthology.org/W17-2337.pdf,ACL Anthology
+2017,A Multi-strategy Query Processing Approach for Biomedical Question Answering: USTB _ PRIR at B io ASQ 2017 Task 5 B,https://aclanthology.org/W17-2348.pdf,ACL Anthology
+2017,Tackling Biomedical Text Summarization: OAQA at B io ASQ 5 B,https://aclanthology.org/W17-2307.pdf,ACL Anthology
+2017,M acquarie U niversity at B io ASQ 5b – Query-based Summarisation Techniques for Selecting the Ideal Answers,https://aclanthology.org/W17-2308.pdf,ACL Anthology
+2018,M acquarie U niversity at B io ASQ 6b: Deep learning and deep reinforcement learning for query-based summarisation,https://aclanthology.org/W18-5303.pdf,ACL Anthology
+2018,Semantic role labeling tools for biomedical question answering: a study of selected tools on the B io ASQ datasets,https://aclanthology.org/W18-5302.pdf,ACL Anthology
+2018,Results of the sixth edition of the B io ASQ Challenge,https://aclanthology.org/W18-5301.pdf,ACL Anthology
+2018,"A ttention M e SH : Simple, Effective and Interpretable Automatic M e SH Indexer",https://aclanthology.org/W18-5306.pdf,ACL Anthology
+2018,Ontology-Based Retrieval & Neural Approaches for B io ASQ Ideal Answer Generation,https://aclanthology.org/W18-5310.pdf,ACL Anthology
+2018,M ind L ab Neural Network Approach at B io ASQ 6 B,https://aclanthology.org/W18-5305.pdf,ACL Anthology
+2018,Extraction Meets Abstraction: Ideal Answer Generation for Biomedical Questions,https://aclanthology.org/W18-5307.pdf,ACL Anthology
+2018,An Adaption of BIOASQ Question Answering dataset for Machine Reading systems by Manual Annotations of Answer Spans.,https://aclanthology.org/W18-5309.pdf,ACL Anthology
+2018,UNCC QA : Biomedical Question Answering system,https://aclanthology.org/W18-5308.pdf,ACL Anthology
+2018,AUEB at B io ASQ 6: Document and Snippet Retrieval,https://aclanthology.org/W18-5304.pdf,ACL Anthology
+2019,Results of the Seventh Edition of the BioASQ Challenge,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_51.pdf,Springer
+2019,A Mixed Information Source Approach for Biomedical Question Answering: MindLab at BioASQ 7B,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_54.pdf,Springer
+2019,Selected Approaches Ranking Contextual Term for the BioASQ Multi-label Classification (Task6a and 7a),https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_52.pdf,Springer
+2019,AUEB at BioASQ 7: Document and Snippet Retrieval,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_55.pdf,Springer
+2019,Classification Betters Regression in Query-Based Multi-document Summarisation Techniques for Question Answering,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_56.pdf,Springer
+2019,Structured Summarization of Academic Publications,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_57.pdf,Springer
+2019,How to Pre-train Your Model? Comparison of Different Pre-training Models for Biomedical Question Answering,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_58.pdf,Springer
+2019,Yes/No Question Answering in BioASQ 2019,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_59.pdf,Springer
+2019,Convolutional Neural Network for Automatic MeSH Indexing,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_53.pdf,Springer
+2019,Measuring Domain Portability and Error Propagation in Biomedical QA,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_61.pdf,Springer
+2019,"UNCC Biomedical Semantic Question Answering Systems. BioASQ: Task-7B, Phase-B",https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_62.pdf,Springer
+2019,Transformer Models for Question Answering at BioASQ 2019,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_63.pdf,Springer
+2019,Semantically Corroborating Neural Attention for Biomedical Question Answering,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_60.pdf,Springer
+2019,Pre-trained Language Model for Biomedical Question Answering,https://link.springer.com/content/pdf/10.1007/978-3-030-43887-6_64.pdf,Springer
+2020,Priberam at MESINESP Multi-label Classification of Medical Texts Task,https://ceur-ws.org/Vol-2696/paper_90.pdf,CEUR-WS
+2020,Transfer Learning for Biomedical Question Answering,https://ceur-ws.org/Vol-2696/paper_66.pdf,CEUR-WS
+2020,BIT.UA at BioASQ 8: Lightweight Neural Document Ranking with Zero-shot Snippet Retrieval,https://ceur-ws.org/Vol-2696/paper_161.pdf,CEUR-WS
+2020,Overview of BioASQ 8a and 8b: Results of the Eighth Edition of the BioASQ Tasks a and b,https://ceur-ws.org/Vol-2696/paper_164.pdf,CEUR-WS
+2020,"Overview of MESINESP, a Spanish Medical Semantic Indexing Task within BioASQ 2020",https://ceur-ws.org/Vol-2696/paper_269.pdf,CEUR-WS
+2020,Hybrid First-stage Retrieval Models for Biomedical Literature,https://ceur-ws.org/Vol-2696/paper_92.pdf,CEUR-WS
+2020,Query Focused Multi-document Summarisation of Biomedical Texts,https://ceur-ws.org/Vol-2696/paper_119.pdf,CEUR-WS
+2020,Extreme Multi-Label Classification applied to the Biomedical and Multilingual Panorama,https://ceur-ws.org/Vol-2696/paper_67.pdf,CEUR-WS
+2020,AUEB-NLP at BioASQ 8: Biomedical Document and Snippet Retrieval,https://ceur-ws.org/Vol-2696/paper_122.pdf,CEUR-WS
+2020,CoLe and LYS at BioASQ MESINESP8 Task: Similarity based Descriptor Assigment in Spanish,https://ceur-ws.org/Vol-2696/paper_205.pdf,CEUR-WS
+2020,Query-focused biomedical text summarization in BioASQ 8B,https://ceur-ws.org/Vol-2696/paper_159.pdf,CEUR-WS
+2020,Unsupervised Pre-training for Biomedical Question Answering,https://ceur-ws.org/Vol-2696/paper_144.pdf,CEUR-WS
+2020,Statistical Graph Matching for Indexing Spanish Biomedical Documents,https://ceur-ws.org/Vol-2696/paper_80.pdf,CEUR-WS
+2020,Transferability of Natural Language Inference to Biomedical Question Answering,https://ceur-ws.org/Vol-2696/paper_44.pdf,CEUR-WS
+2020,Transformer-Based Open Domain Biomedical Question Answering at BioASQ8 Challenge,https://ceur-ws.org/Vol-2696/paper_75.pdf,CEUR-WS
+2020,NCU-IISR: Using a Pre-trained Language Model and Logistic Regression Model for BioASQ Task 8b Phase B,https://ceur-ws.org/Vol-2696/paper_72.pdf,CEUR-WS
+2021,Large Biomedical Question Answering Models with ALBERT and ELECTRA,https://ceur-ws.org/Vol-2936/paper-14.pdf,CEUR-WS
+2021,BioASQ Synergy: A strong and simple baseline rooted in relevance feedback,https://ceur-ws.org/Vol-2936/paper-12.pdf,CEUR-WS
+2021,Universal Passage Weighting Mecanism (UPWM) in BioASQ 9b,https://ceur-ws.org/Vol-2936/paper-13.pdf,CEUR-WS
+2021,"Overview of BioASQ Tasks 9a, 9b and Synergy in CLEF2021",https://ceur-ws.org/Vol-2936/paper-10.pdf,CEUR-WS
+2021,"Overview of BioASQ 2021-MESINESP track. Evaluation of advance hierarchical classification
+                        techniques for scientific literature, patents and clinical trials.",https://ceur-ws.org/Vol-2936/paper-11.pdf,CEUR-WS
+2021,"Query-Focused Extractive Summarisation for Finding Ideal Answers to Biomedical and
+                        COVID-19 Questions",https://ceur-ws.org/Vol-2936/paper-20.pdf,CEUR-WS
+2021,"End-to-end Biomedical Question Answering via Bio-AnswerFinder and Discriminative Language
+                        Representation Models",https://ceur-ws.org/Vol-2936/paper-21.pdf,CEUR-WS
+2021,A Neural Text Ranking Approach for Automatic MeSH Indexing,https://ceur-ws.org/Vol-2936/paper-22.pdf,CEUR-WS
+2021,"COLE and LYS at BioASQ MESINESP Task: large scale multilabel text categorization with
+                        sparse and dense indices",https://ceur-ws.org/Vol-2936/paper-23.pdf,CEUR-WS
+2021,"LASIGE-BioTM at MESINESP2: entity linking with semantic similarity and extreme multi-label
+                        classification on Spanish biomedical documents",https://ceur-ws.org/Vol-2936/paper-24.pdf,CEUR-WS
+2021,"NLM at BioASQ Synergy 2021: Deep Learning-based Methods for Biomedical Semantic Question
+                        Answering about COVID-19",https://ceur-ws.org/Vol-2936/paper-25.pdf,CEUR-WS
+2021,"KU-DMIS at BioASQ 9: Data-centric and model-centric approaches for biomedical question
+                        answering",https://ceur-ws.org/Vol-2936/paper-26.pdf,CEUR-WS
+2021,"NCU-IISR/AS-GIS: Results of Various Pre-trained Biomedical Language Models and Linear
+                        Regression Model in BioASQ Task 9b Phase B",https://ceur-ws.org/Vol-2936/paper-27.pdf,CEUR-WS
+2021,MDS_UNCC Question Answering System for Biomedical Data with Preliminary Error Analysis,https://ceur-ws.org/Vol-2936/paper-16.pdf,CEUR-WS
+2021,PIDNA at BioASQ MESINESP: Hybrid Semantic Indexing for Biomedical Articles in Spanish,https://ceur-ws.org/Vol-2936/paper-17.pdf,CEUR-WS
+2021,Transformer-based Language Models for Factoid Question Answering at BioASQ9b,https://ceur-ws.org/Vol-2936/paper-18.pdf,CEUR-WS
+2021,"Vicomtech at MESINESP2: BERT-based Multi-label Classification Models for Biomedical
+                        Text Indexing",https://ceur-ws.org/Vol-2936/paper-15.pdf,CEUR-WS
+2021,Post-processing BioBERT And Using Voting Methods for Biomedical Question Answering,https://ceur-ws.org/Vol-2936/paper-19.pdf,CEUR-WS
+2022,"Overview of BioASQ Tasks 10a, 10b and Synergy10 in CLEF2022",https://ceur-ws.org/Vol-3180/paper-10.pdf,CEUR-WS
+2022,"Deep Learning solutions based on fixed contextualized embeddings from PubMedBERT on
+                        BioASQ 10b and traditional IR in Synergy",https://ceur-ws.org/Vol-3180/paper-12.pdf,CEUR-WS
+2022,"Overview of DisTEMIST at BioASQ: Automatic detection and normalization of diseases
+                        from clinical texts: results, methods, evaluation and multilingual resources",https://ceur-ws.org/Vol-3180/paper-11.pdf,CEUR-WS
+2022,"LaRSA at BioASQ 10b: classical and novel approaches for biomedical document retrieval
+                        and question answering",https://ceur-ws.org/Vol-3180/paper-18.pdf,CEUR-WS
+2022,Zero-shot Hybrid Retrieval and Reranking Models for Biomedical Literature,https://ceur-ws.org/Vol-3180/paper-19.pdf,CEUR-WS
+2022,BioTABQA: Instruction Learning for Biomedical Table Question Answering,https://ceur-ws.org/Vol-3180/paper-20.pdf,CEUR-WS
+2022,"Query-focused Extractive Summarisation for Biomedical and COVID-19 Complex Question
+                        Answering",https://ceur-ws.org/Vol-3180/paper-21.pdf,CEUR-WS
+2022,Biomedical Spanish Language Models for entity recognition and linking at BioASQ DisTEMIST,https://ceur-ws.org/Vol-3180/paper-22.pdf,CEUR-WS
+2022,"Unicage at DISTEMIST - Named Entity Recognition system using only Bash and Unicage
+                        tools",https://ceur-ws.org/Vol-3180/paper-23.pdf,CEUR-WS
+2022,ELECTROLBERT: Combining Replaced Token Detection and Sentence Order Prediction,https://ceur-ws.org/Vol-3180/paper-24.pdf,CEUR-WS
+2022,"Clinical Named Entity Recognition and Linking using BERT in Combination with Spanish
+                        Medical Embeddings",https://ceur-ws.org/Vol-3180/paper-25.pdf,CEUR-WS
+2022,mBERT and Simple Post-Processing: A Baseline for Disease Mention Detection in Spanish,https://ceur-ws.org/Vol-3180/paper-26.pdf,CEUR-WS
+2022,"NCU-IISR/AS-GIS: Using BERTScore and Snippet Score to Improve the Performance of Pretrained
+                        Language Model in BioASQ 10b Phase B",https://ceur-ws.org/Vol-3180/paper-27.pdf,CEUR-WS
+2022,A Simple Terminology-Based Approach to Clinical Entity Recognition,https://ceur-ws.org/Vol-3180/paper-16.pdf,CEUR-WS
+2022,"Exploring Biomedical Question Answering with BioM-Transformers At BioASQ10B challenge:
+                        Findings and Techniques",https://ceur-ws.org/Vol-3180/paper-13.pdf,CEUR-WS
+2022,"DIAGÑOZA: a Natural Language Processing Tool for Automatic Annotation of Clinical
+                        Free Text with SNOMED-CT",https://ceur-ws.org/Vol-3180/paper-14.pdf,CEUR-WS
+2022,"HPI-DHC @ BioASQ DisTEMIST: Spanish Biomedical Entity Linking with Pre-trained Transformers
+                        and Cross-lingual Candidate Retrieval",https://ceur-ws.org/Vol-3180/paper-15.pdf,CEUR-WS
+2022,"SINAI at CLEF 2022: Leveraging biomedical transformers to detect and normalize disease
+                        mentions",https://ceur-ws.org/Vol-3180/paper-17.pdf,CEUR-WS
+2023,"Overview of MedProcNER Task on Medical Procedure Detection and Entity Linking at BioASQ
+               2023",https://ceur-ws.org/Vol-3497/paper-002.pdf,CEUR-WS
+2023,"Coming a Long Way with Pre-Trained Transformers and String Matching Techniques: Clinical
+               Procedure Mention Recognition and Normalization",https://ceur-ws.org/Vol-3497/paper-007.pdf,CEUR-WS
+2023,"Enhancing Biomedical Text Summarization and Question-Answering: On the Utility of
+               Domain-Specific Pre-Training",https://ceur-ws.org/Vol-3497/paper-008.pdf,CEUR-WS
+2023,"NCU-IISR: Prompt Engineering on GPT-4 to Stove Biological Problems in BioASQ 11b Phase
+               B",https://ceur-ws.org/Vol-3497/paper-009.pdf,CEUR-WS
+2023,"Leveraging Biomedical Ontologies for Clinical Procedures Recognition in Spanish at
+               BioASQ MedProcNER",https://ceur-ws.org/Vol-3497/paper-010.pdf,CEUR-WS
+2023,Exploring Approaches to Answer Biomedical Questions: From Pre-processing to GPT-4,https://ceur-ws.org/Vol-3497/paper-011.pdf,CEUR-WS
+2023,"BioASQ 11B: Integrating Domain Specific Vocabulary to BERT-based Model for Biomedical
+               Document Ranking.",https://ceur-ws.org/Vol-3497/paper-012.pdf,CEUR-WS
+2023,Semi-supervised training for biomedical question answering,https://ceur-ws.org/Vol-3497/paper-013.pdf,CEUR-WS
+2023,Biomedical Question Answering with Transformer Ensembles,https://ceur-ws.org/Vol-3497/paper-014.pdf,CEUR-WS
+2023,Deep Metric Learning for Effective Passage Retrieval in the BioASQ Challenge,https://ceur-ws.org/Vol-3497/paper-015.pdf,CEUR-WS
+2023,"Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical
+               Question Answering",https://ceur-ws.org/Vol-3497/paper-016.pdf,CEUR-WS
+2023,"Fusion @ BioASQ MedProcNER: Transformer-based Approach for Procedure Recognition and
+               Linking in Spanish Clinical Text",https://ceur-ws.org/Vol-3497/paper-017.pdf,CEUR-WS
+2023,Overview of BioASQ Tasks 11b and Synergy11 in CLEF2023,https://ceur-ws.org/Vol-3497/paper-003.pdf,CEUR-WS
+2023,Improving Biomedical Question Answering with Sentence-based Ranking at BioASQ-11b,https://ceur-ws.org/Vol-3497/paper-001.pdf,CEUR-WS
+2023,BIT.UA at BioASQ 11B: Two-Stage IR with Synthetic Training and Zero-Shot Answer Generation,https://ceur-ws.org/Vol-3497/paper-004.pdf,CEUR-WS
+2023,"BIT.UA at MedProcNer: Discovering Medical Procedures in Spanish Using Transformer
+               Models with MCRF and Augmentation",https://ceur-ws.org/Vol-3497/paper-005.pdf,CEUR-WS
+2023,Is ChatGPT a Biomedical Expert?,https://ceur-ws.org/Vol-3497/paper-006.pdf,CEUR-WS
+2023,"VICOMTECH at MedProcNER 2023: Transformers-based Sequence-labelling and Cross-encoding
+               for Entity Detection and Normalisation in Spanish Clinical Texts",https://ceur-ws.org/Vol-3497/paper-018.pdf,CEUR-WS
+2024,Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024,https://ceur-ws.org/Vol-3740/paper-03.pdf,CEUR-WS
+2024,"Overview of MultiCardioNER task at BioASQ 2024 on Medical Specialty and Language Adaptation
+               of Clinical NER Systems for Spanish, English and Italian",https://ceur-ws.org/Vol-3740/paper-02.pdf,CEUR-WS
+2024,Overview of BioASQ Tasks 12b and Synergy12 in CLEF2024,https://ceur-ws.org/Vol-3740/paper-01.pdf,CEUR-WS
+2024,"Transformer-Based Disease and Drug Named Entity Recognition in Multilingual Clinical
+               Texts: MultiCardioNER challenge",https://ceur-ws.org/Vol-3740/paper-04.pdf,CEUR-WS
+2024,"Enhancing Biomedical Document Ranking with Domain Knowledge Incorporation in a Multi-Stage
+               Retrieval Approach.",https://ceur-ws.org/Vol-3740/paper-15.pdf,CEUR-WS
+2024,"Comparative Analyses of Multilingual Drug Entity Recognition Systems for Clinical
+               Case Reports In Cardiology",https://ceur-ws.org/Vol-3740/paper-14.pdf,CEUR-WS
+2024,BIT.UA at MultiCardioNER: Adapting a Multi-head CRF for Cardiology,https://ceur-ws.org/Vol-3740/paper-13.pdf,CEUR-WS
+2024,"Generative Large Language Models Augmented Hybrid Retrieval System for Biomedical
+               Question Answering",https://ceur-ws.org/Vol-3740/paper-12.pdf,CEUR-WS
+2024,"Team NOVA LINCS @ BIOASQ12 MultiCardioNER Track: Entity Recognition with Additional
+               Entity Types",https://ceur-ws.org/Vol-3740/paper-11.pdf,CEUR-WS
+2024,"Enhancing Biomedical Question Answering with Parameter-Efficient Fine-Tuning and Hierarchical
+               Retrieval Augmented Generation",https://ceur-ws.org/Vol-3740/paper-10.pdf,CEUR-WS
+2024,"Multilingual Clinical NER for Diseases and Medications Recognition in Cardiology Texts
+               using BERT Embeddings",https://ceur-ws.org/Vol-3740/paper-09.pdf,CEUR-WS
+2024,"NCU-IISR: Enhancing Biomedical Question Answering with GPT-4 and Retrieval Augmented
+               Generation in BioASQ 12b Phase B",https://ceur-ws.org/Vol-3740/paper-08.pdf,CEUR-WS
+2024,HU-WBI at BioASQ12B Phase A: Exploring Rank Fusion of Dense Retrievers and Re-rankers,https://ceur-ws.org/Vol-3740/paper-23.pdf,CEUR-WS
+2024,"Using Pretrained Large Language Model with Prompt Engineering to Answer Biomedical
+               Questions",https://ceur-ws.org/Vol-3740/paper-22.pdf,CEUR-WS
+2024,Biomedical Nested NER with Large Language Model and UMLS Heuristics,https://ceur-ws.org/Vol-3740/paper-21.pdf,CEUR-WS
+2024,"Cross-Linguistic Disease and Drug Detection in Cardiology Clinical Texts: Methods
+               and Outcomes",https://ceur-ws.org/Vol-3740/paper-20.pdf,CEUR-WS
+2024,"Identifying Cardiological Disorders in Spanish via Data Augmentation and Fine-Tuned
+               Language Models",https://ceur-ws.org/Vol-3740/paper-19.pdf,CEUR-WS
+2024,Nested Named Entity Recognition using Multilayer BERT-based Model,https://ceur-ws.org/Vol-3740/paper-18.pdf,CEUR-WS
+2024,Farming Open LLMs for Biomedical Question Answering,https://ceur-ws.org/Vol-3740/paper-17.pdf,CEUR-WS
+2024,MiBi at BioASQ 2024: Retrieval-Augmented Generation for Answering Biomedical Questions,https://ceur-ws.org/Vol-3740/paper-16.pdf,CEUR-WS
+2024,"Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance
+               of Current GPT Models in Biomedical Tasks",https://ceur-ws.org/Vol-3740/paper-07.pdf,CEUR-WS
+2024,LLM Fine-Tuning With Biomedical Open-Source Data,https://ceur-ws.org/Vol-3740/paper-06.pdf,CEUR-WS
+2024,BIT.UA at BioASQ 12: From Retrieval to Answer Generation,https://ceur-ws.org/Vol-3740/paper-05.pdf,CEUR-WS
+2025,Overview of GutBrainIE@CLEF 2025: Gut-Brain Interplay Information Extraction,https://ceur-ws.org/Vol-4038/paper_5.pdf,CEUR-WS
+2025,Overview of ElCardioCC Task on Clinical Coding in Cardiology at BioASQ 2025,https://ceur-ws.org/Vol-4038/paper_4.pdf,CEUR-WS
+2025,Overview of the BioASQ BioNNE-L Task on Biomedical Nested Entity Linking in CLEF 2025,https://ceur-ws.org/Vol-4038/paper_3.pdf,CEUR-WS
+2025,"Overview of MultiClinSum Task at BioASQ 2025: Evaluation of Clinical Case Summarization Strategies for Multiple Languages: Data, Evaluation, Resources and Results",https://ceur-ws.org/Vol-4038/paper_2.pdf,CEUR-WS
+2025,Overview of BioASQ Tasks 13b and Synergy13 in CLEF2025,https://ceur-ws.org/Vol-4038/paper_1.pdf,CEUR-WS
+2025,Agentic MCS: A Multilingual Clinical Summarization Framework,https://ceur-ws.org/Vol-4038/paper_8.pdf,CEUR-WS
+2025,AQAMS and AQAMS2: Multi Agent Systems for Biomedical Question Answering,https://ceur-ws.org/Vol-4038/paper_7.pdf,CEUR-WS
+2025,Trusting Gut Instincts: Transformer-Based Extraction of Structured Data from Gut-Brain Axis Publications,https://ceur-ws.org/Vol-4038/paper_6.pdf,CEUR-WS
+2025,lasigeBioTM at BioASQ25 Task GutBrainIE - Lean Large Language Models with Syntactic Features,https://ceur-ws.org/Vol-4038/paper_13.pdf,CEUR-WS
+2025,NCU-IISR: Biomedical Question Answering via Gemini and GPT APIs in the BioASQ 13b Phase B Challenge,https://ceur-ws.org/Vol-4038/paper_12.pdf,CEUR-WS
+2025,Navigating Partial UMLS Terminology: GAT Embeddings and Confidence Analysis for Multilingual Concept Linking,https://ceur-ws.org/Vol-4038/paper_11.pdf,CEUR-WS
+2025,UniTor at BioASQ 2025: Modular Biomedical QA with Synthetic Snippets and Multiple Task Answer Generation,https://ceur-ws.org/Vol-4038/paper_10.pdf,CEUR-WS
+2025,Can Language Models Critique Themselves? Investigating Self-Feedback for Retrieval Augmented Generation at BioASQ 2025,https://ceur-ws.org/Vol-4038/paper_9.pdf,CEUR-WS
+2025,Enhancing Multilingual Medical Summarization via Contextual Keyword Augmentation,https://ceur-ws.org/Vol-4038/paper_40.pdf,CEUR-WS
+2025,Biomedical Semantic Question Answering - Answering Systems Using Different LLMs for Subtasks,https://ceur-ws.org/Vol-4038/paper_41.pdf,CEUR-WS
+2025,MedGemma-Sum-Pt: A Lightweight Model for Portuguese Clinical Summarization,https://ceur-ws.org/Vol-4038/paper_42.pdf,CEUR-WS
+2025,NLP@VCU at BioASQ2025: Information Extraction on the GutBrainIE dataset,https://ceur-ws.org/Vol-4038/paper_45.pdf,CEUR-WS
+2025,Applying DeepSeek to BioASQ Task 13B: Using Supervised Fine-Tuning and Few-Shot Learning,https://ceur-ws.org/Vol-4038/paper_44.pdf,CEUR-WS
+2025,Are Smaller Open-Weight LLMs Closing the Gap to Proprietary Models for Biomedical Question Answering?,https://ceur-ws.org/Vol-4038/paper_43.pdf,CEUR-WS
+2025,Harnessing Collective Intelligence of LLMs for Robust Biomedical QA: A Multi-Model Approach,https://ceur-ws.org/Vol-4038/paper_34.pdf,CEUR-WS
+2025,Comparing CRF vs BERT Models for Named Entity Recognition and Relation Extraction,https://ceur-ws.org/Vol-4038/paper_33.pdf,CEUR-WS
+2025,Enhancing Biomedical Named Entity Recognition using GLiNER-BioMed with Targeted Dictionary-Based Post-processing for BioASQ 2025 task 6,https://ceur-ws.org/Vol-4038/paper_32.pdf,CEUR-WS
+2025,Development of a Biomedical Question Answering System Based on Transformer Models,https://ceur-ws.org/Vol-4038/paper_31.pdf,CEUR-WS
+2025,lasigeBioTM: A Lean Biomedical QA System Empowered by Structured Knowledge,https://ceur-ws.org/Vol-4038/paper_30.pdf,CEUR-WS
+2025,LYX_DMIIP_FDU At BioASQ 2025: Utilizing BERT Embeddings For Biomedical Text Mining,https://ceur-ws.org/Vol-4038/paper_29.pdf,CEUR-WS
+2025,BIBERT-Pipe on Biomedical Nested Named Entity Linking at BioASQ 2025,https://ceur-ws.org/Vol-4038/paper_28.pdf,CEUR-WS
+2025,Understanding Gut-Brain Interplay in Scientific Literature: A Hybrid Approach from Classification to Generative LLM Reasoning,https://ceur-ws.org/Vol-4038/paper_27.pdf,CEUR-WS
+2025,Multilingual and Nested Biomedical Named Entity Normalization via Candidate Retrieval and Lightweight Large Language Model Disambiguation,https://ceur-ws.org/Vol-4038/paper_26.pdf,CEUR-WS
+2025,Prompting Matters: Snippet-Aware Strategies for Biomedical QA with LLMs in BioASQ 13b,https://ceur-ws.org/Vol-4038/paper_25.pdf,CEUR-WS
+2025,From Named Entities to Relations: End-to-End Biomedical Information Extraction,https://ceur-ws.org/Vol-4038/paper_24.pdf,CEUR-WS
+2025,Using Decoder-Based Distillation for Enhancing Multilingual Clinical Case Report Summarization,https://ceur-ws.org/Vol-4038/paper_39.pdf,CEUR-WS
+2025,"ExtraSum @ MultiClinSum: Extractive Summarization of English, Spanish, French and Portuguese Clinical Case Reports",https://ceur-ws.org/Vol-4038/paper_38.pdf,CEUR-WS
+2025,MaLei at MultiClinSUM: Summarisation of Clinical Documents using Perspective-Aware Iterative Self-Prompting with LLMs,https://ceur-ws.org/Vol-4038/paper_37.pdf,CEUR-WS
+2025,Named Entity Recognition with GLiNER and Relation Extraction with LLMs,https://ceur-ws.org/Vol-4038/paper_36.pdf,CEUR-WS
+2025,Hybrid Re-ranking for Biomedical Entity Linking using SapBERT Embeddings: A High-Performance System for BioNNE-L 2025-1,https://ceur-ws.org/Vol-4038/paper_35.pdf,CEUR-WS
+2025,Graphwise @ CLEF-2025 GutBrainIE: Towards Automated Discovery of Gut-Brain Interactions - Deep Learning for NER and Relation Extraction from PubMed Abstracts,https://ceur-ws.org/Vol-4038/paper_14.pdf,CEUR-WS
+2025,SCIRE at BioASQ 2025: LLM Driven Biomedical Named Entity Recognition for GutBrainIE 2025,https://ceur-ws.org/Vol-4038/paper_18.pdf,CEUR-WS
+2025,SINAI at BioASQ@CLEF 2025: A Multi-Stage RAG Pipeline for Biomedical Semantic Question Answering,https://ceur-ws.org/Vol-4038/paper_15.pdf,CEUR-WS
+2025,LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge,https://ceur-ws.org/Vol-4038/paper_16.pdf,CEUR-WS
+2025,Group Relative Policy Optimization for Spanish Clinical Case Report Summarization,https://ceur-ws.org/Vol-4038/paper_17.pdf,CEUR-WS
+2025,Exploring Retrieval-Reranking and LLM-Based Answer Generation for Biomedical QA,https://ceur-ws.org/Vol-4038/paper_46.pdf,CEUR-WS
+2025,"Multilingual Embedding and Prompt-Driven Approaches for Named Entity Recognition, Entity Linking, and Clinical Code Prediction in Greek Discharge Summaries",https://ceur-ws.org/Vol-4038/paper_47.pdf,CEUR-WS
+2025,pjmathematician at MultiClinSUM 2025: A Novel Automated Prompt Optimization Framework for Multilingual Clinical Summarization,https://ceur-ws.org/Vol-4038/paper_48.pdf,CEUR-WS
+2025,Beyond Retrieval: Ensembling Cross-Encoders and GPT Rerankers with LLMs for Biomedical QA,https://ceur-ws.org/Vol-4038/paper_50.pdf,CEUR-WS
+2025,Enigma @ ELCardioCC: Bridging NER and ICD-10 Entity Linking - A Hybrid Method for Greek Clinical Narratives,https://ceur-ws.org/Vol-4038/paper_49.pdf,CEUR-WS
+2025,NCU-IISR: A Retrieval-Augmented Generation Approach for BioASQ 13b Phase A and A+,https://ceur-ws.org/Vol-4038/paper_19.pdf,CEUR-WS
+2025,GutUZH at CLEF2025 BioASQ Task 6: a Method of SOTA Performance with the Best Results at GutBrainIE NER Subtask 1,https://ceur-ws.org/Vol-4038/paper_20.pdf,CEUR-WS
+2025,Clinical Entity Recognition and Linking in Greek Discharge Letters using Multilingual-LLM-Based Multi-Stage System,https://ceur-ws.org/Vol-4038/paper_21.pdf,CEUR-WS
+2025,"BIT.UA at BioASQ 13B: Revisiting Evaluation, DPRF-Enhanced Retrieval and Fine-Tuned LLMs",https://ceur-ws.org/Vol-4038/paper_22.pdf,CEUR-WS
+2025,Constrained Linked Entity ANnotation using RAG (CLEANR),https://ceur-ws.org/Vol-4038/paper_23.pdf,CEUR-WS
